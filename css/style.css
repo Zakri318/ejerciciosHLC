@@ -1,9 +1,39 @@
-body{
-    border: 10px solid rgb(13, 156, 108);
-    background-color: beige;
-    text-align: justify; 
+.title{
+    color: brown;
+    text-align: center;
+    text-decoration: underline;
 }
 
-h1 {
+h2{
+    color: purple;
+    width: 40%;
+    margin: auto;
+    border: 4px solid brown;
     text-align: center;
 }
+.personal{
+    margin: auto;
+    width: 35%;
+}
+.personal table{
+    margin: auto;
+}
+.objetivo{
+    margin: auto;
+    width: 35%;
+}
+.exp{
+    margin: auto;
+    width: 35%;
+}
+.exp table{
+    margin: auto;
+}
+.educ{
+    margin: auto;
+    width: 35%;
+}
+.educ table{
+    margin: auto;
+}
+
